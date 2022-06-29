@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mibaruc
 - 👀 I’m interested in marvel
-- 🌱 I’m currently learning language C
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me milenabaruc072@gmail.com
 
